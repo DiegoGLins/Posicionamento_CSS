@@ -1,0 +1,22 @@
+body {
+  background-color: #a7a8b2;
+  margin: 0px;
+}
+
+.cubo {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  margin: 0px 8px 8px 0px;
+}
+
+.cubo-special {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  margin: 0px 0px 0px 8px;
+}
+
+.container {
+  display: flex;
+}
